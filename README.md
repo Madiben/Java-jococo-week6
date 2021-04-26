@@ -1,10 +1,3 @@
-# Video lecture
-
-https://www.youtube.com/watch?v=0YwyzqQRY4w
-
-# Gitlab Wiki page
-
-https://docs.gitlab.com/ee/user/markdown.html
 
 # Extend our code
 
@@ -132,14 +125,3 @@ From this point we can download from the job view directly our code coverage rep
 # Merge request closes issue
 
 https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically
-
-# Task
-
-- Create a milestone titled "I learn how to use GitLab ([your name])".
-- Create a wiki page. Set the title to your name. As content: 
-    - Add a clickable link to google.
-    - Add a code snippet into the page
-    - Add link to your milestone
-    - Add a link to one of your issue (created in the last session)
-- Use the source files from this repository and commit to the sandbox project and write test for them.
-- Achieve 100% testing coverage of the source code with the tests.
